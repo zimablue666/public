@@ -1,4 +1,5 @@
-# Примеры sql и R скриптов https://github.com/zimablue666/public/tree/main/public
+# Примеры sql и R скриптов 
+https://github.com/zimablue666/public/tree/main/public
 -----------------------------
 
 
@@ -15,21 +16,21 @@ BI | Описание
 ------------ | -------------
 Qlik Sense| Основной дэшборд отдела маркетинга. Платежи клиентов.
 
-![main_pmnts](https://github.com/zimablue666/astro7_qliksense/assets/98899057/5bab2dd7-e76c-4d15-92f9-44f58a2351e0)
+![main_pmnts](https://github.com/zimablue666/public/assets/98899057/0ae012a6-684c-471a-88e0-5dc404c02b9b)
 ---|---
 
 BI | Описание
 ------------ | -------------
 Qlik Sense| Еженедельная воронка. Инфо по заказам
 
-![marketplace_orders](https://github.com/zimablue666/astro7_qliksense/assets/98899057/c5dfbe2f-8e9b-4470-a1f3-4406864460a1)
+![marketplace_orders](https://github.com/zimablue666/public/assets/98899057/4363e9c4-0fee-4b8e-94b6-73345986b3b3)
 ---|---
 
 BI | Описание
 ------------ | -------------
 Qlik Sense| Срывы консультаций. Общая инфо
 
-![fails_total_info](https://github.com/zimablue666/astro7_qliksense/assets/98899057/60a102fe-52bc-456e-a352-90275e3fe1cc)
+![fails_total_info](https://github.com/zimablue666/public/assets/98899057/eaaaa2b0-5e77-45c9-8292-ef3d1da09fc0)
 
 -----------------------------
 # Отчеты в google spreadsheets
@@ -38,17 +39,17 @@ Qlik Sense| Срывы консультаций. Общая инфо
 ------------ | -------------
 Еженедельный отчет по роутингу экспертов бесплатных консультаций| Задача отчета: притянуть с техн. листа категорию эксперта (грубо -> плохо, средне, хорошо) и сводную по метрикам, на которые смотрит продакт отдела, за последние 26 недель. 
 
-![gratis_report_weekly](https://github.com/zimablue666/astro7_qliksense/assets/98899057/975a81d1-cdcc-416b-abed-76316caa6260)
+![gratis_report_weekly](https://github.com/zimablue666/public/assets/98899057/f1f0d6e8-4f64-49ff-b2b1-07ce62b8640d)
 ---|---
 
 Название | Описание
 ------------ | -------------
 Разовый анализ для конверсий бесплатных консультаций| Цель: актуализировать конверсии, которые используются в бенчмарках для экспертов; проблематика двух разных типов консультаций; выводы. 
 
-![gratis_conv](https://github.com/zimablue666/astro7_qliksense/assets/98899057/1e7183b1-4551-4118-b6b4-f364c7d9e002)
-![gratis_conv2](https://github.com/zimablue666/astro7_qliksense/assets/98899057/acab872e-aa4b-4307-ac69-fd356f2eb0b3)
+![gratis_conv](https://github.com/zimablue666/public/assets/98899057/19c071e4-33a8-4109-949b-31245ea6e661)
+![gratis_conv2](https://github.com/zimablue666/public/assets/98899057/7f1b1bb0-3b37-44d6-9083-80cebfcddabe)
 
-Док с анализом с подмененными данными: https://docs.google.com/spreadsheets/d/1R72FbYptbfYmWP0iPYw-OCM0xKF5_IFi7A7PKwIxZ5M/edit?usp=sharing
+Док с анализом: https://docs.google.com/spreadsheets/d/1R72FbYptbfYmWP0iPYw-OCM0xKF5_IFi7A7PKwIxZ5M/edit?usp=sharing
 
 ---|---
 
@@ -58,9 +59,9 @@ Qlik Sense| Срывы консультаций. Общая инфо
 
 Дэшборд интерактивный - можно фильтровать канал привлечения и страну клиента - данные пересчитываются. 
 
-![yearly_funnel](https://github.com/zimablue666/astro7_qliksense/assets/98899057/ff368688-31a8-4b93-8e9e-39e3b5b66099)
+![yearly_funnel](https://github.com/zimablue666/public/assets/98899057/509f47e6-e85f-4007-99b1-368eda411094)
 
-Док с отчетом с подмененными данными: https://docs.google.com/spreadsheets/d/1Pe-ncle15RBnl7eGtZFJhmU7MKm622d0kSDC3XsHEWE/edit?usp=sharing
+Док с отчетом: https://docs.google.com/spreadsheets/d/1Pe-ncle15RBnl7eGtZFJhmU7MKm622d0kSDC3XsHEWE/edit?usp=sharing
 
 ---|---
 
@@ -68,7 +69,7 @@ Qlik Sense| Срывы консультаций. Общая инфо
 ------------ | -------------
 Разовый запрос - тепловая карта времени регистраций и 1-х платежей клиентов| Цель: подсветить часы наибольшей активности по регистрациям и монетизациям для оптимизации работы менеджера.  
 
-![image](https://github.com/zimablue666/astro7_qliksense/assets/98899057/86e0def1-9d7e-4851-8129-033fad620756)
+![heat_map](https://github.com/zimablue666/public/assets/98899057/7e336fc7-4ceb-46e3-a9b6-8fa7c8b9b5cc)
 
 
 
