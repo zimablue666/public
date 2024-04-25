@@ -8,7 +8,7 @@ BI | Описание
 ------------ | -------------
 Qlik Sense| Основной дэшборд отдела маркетинга. Лист с общими сводными за календарный месяц.
 
-![main_total](https://github.com/zimablue666/astro7_qliksense/assets/98899057/10169fa5-1a7a-4a0c-b47b-03a29328848e)
+![main_total](https://github.com/zimablue666/public/assets/98899057/63d725b4-d1a6-4b54-9827-0ba56847ed17)
 ---|---
 
 BI | Описание
