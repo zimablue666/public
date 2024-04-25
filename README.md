@@ -49,7 +49,7 @@ Qlik Sense| Срывы консультаций. Общая инфо
 ![gratis_conv](https://github.com/zimablue666/public/assets/98899057/19c071e4-33a8-4109-949b-31245ea6e661)
 ![gratis_conv2](https://github.com/zimablue666/public/assets/98899057/7f1b1bb0-3b37-44d6-9083-80cebfcddabe)
 
-Док с анализом: https://docs.google.com/spreadsheets/d/1R72FbYptbfYmWP0iPYw-OCM0xKF5_IFi7A7PKwIxZ5M/edit?usp=sharing
+Док с анализом (доступ по запросу): https://docs.google.com/spreadsheets/d/1R72FbYptbfYmWP0iPYw-OCM0xKF5_IFi7A7PKwIxZ5M/edit?usp=sharing
 
 ---|---
 
@@ -61,7 +61,7 @@ Qlik Sense| Срывы консультаций. Общая инфо
 
 ![yearly_funnel](https://github.com/zimablue666/public/assets/98899057/509f47e6-e85f-4007-99b1-368eda411094)
 
-Док с отчетом: https://docs.google.com/spreadsheets/d/1Pe-ncle15RBnl7eGtZFJhmU7MKm622d0kSDC3XsHEWE/edit?usp=sharing
+Док с отчетом (доступ по запросу): https://docs.google.com/spreadsheets/d/1Pe-ncle15RBnl7eGtZFJhmU7MKm622d0kSDC3XsHEWE/edit?usp=sharing
 
 ---|---
 
