@@ -1,4 +1,4 @@
-# Примеры sql и R скриптов https://github.com/zimablue666/astro7_qliksense/tree/main/public
+# Примеры sql и R скриптов https://github.com/zimablue666/public/tree/main/public
 -----------------------------
 
 
